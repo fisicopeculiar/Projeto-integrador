@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/IFTO_-_Marca_2015.svg/512px-IFTO_-_Marca_2015.svg.png" alt="IFTO Logo" width="200"/>
+  <img src="https://commons.wikimedia.org/w/index.php?curid=79660342" alt="IFTO Logo" width="200"/>
 </p>
 
 
