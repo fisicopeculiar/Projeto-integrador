@@ -1,18 +1,38 @@
+
+![App Screenshot](https://www.ifto.edu.br/imagens/identidade-visual/marca-ifto-assinatura-1.png/@@images/95dbd7f8-127a-4b60-a8dd-7fe49ff97cae.png)
+
+
 # Projeto Integrador
 
-Este projeto é uma aplicação web desenvolvida com o framework Laravel, visando consolidar conhecimentos adquiridos ao longo do curso. O objetivo principal é proporcionar uma plataforma funcional que integre diversas tecnologias e boas práticas de desenvolvimento.
 
-## 🚀 Tecnologias Utilizadas
+Este projeto consiste na criação de um site de funcionamento ficticio do nicho de petshop, feito para o cumprimento da disciplina de Projeto Integrador II realizada no Instituto Federal do Tocantins.
+## 🤠 Autores
 
-- **Backend:** Laravel (PHP)
-- **Frontend:** Blade Templates, Bootstrap
-- **Banco de Dados:** MySQL
-- **Gerenciamento de Dependências:** Composer, NPM
-- **Controle de Versão:** Git
-- **Ambiente de Desenvolvimento:** Docker (via `docker-compose.yml`)
-- **Testes:** PHPUnit
+- [@fisicopeculiar](https://github.com/fisicopeculiar)
 
-## 📁 Estrutura do Projeto
+Ana Laura Sara Guedes Carvalho
+
+Lucas Coelho
+# 📖 Documentação
+
+### 🚀Tecnologias
+
+- **Laravel**: Framework PHP para backend
+- **Blade**: Template engine para o frontend
+- **MySQL**: Banco de dados relacional
+- **Docker**: Ambiente isolado de desenvolvimento
+- **Composer / NPM**: Gerenciadores de dependências
+
+# 🗺️ Roadmap
+
+- [x] Estrutura inicial do projeto com Laravel
+- [x] Subir projeto ao Github
+- [ ] Painel administrativo
+- [ ] Testes unitários e de integração
+- [ ] Implantação na web
+
+
+## Estrutura da Documentação
 
 - `app/`: Contém os arquivos principais da aplicação, incluindo Models, Controllers e Providers.
 - `bootstrap/`: Arquivos de inicialização do framework.
@@ -26,9 +46,14 @@ Este projeto é uma aplicação web desenvolvida com o framework Laravel, visand
 - `docker-compose.yml`: Configuração para ambiente de desenvolvimento com Docker.
 - `composer.json` & `package.json`: Gerenciamento de dependências PHP e JS, respectivamente.
 
-## 🛠️ Instalação e Configuração
 
-1. **Clone o repositório:**
-   ```bash
-   git clone https://github.com/fisicopeculiar/Projeto-integrador.git
-   cd Projeto-integrador
+## 📄Licença
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+##  🔗 Referência 
+- [Laravel - Documentação Oficial](https://laravel.com/docs)
+- [IFTO – Campus Araguaína](https://ifto.edu.br/araguaina)
+- [Docker](https://docs.docker.com/)
+- [Bootstrap](https://getbootstrap.com/)
