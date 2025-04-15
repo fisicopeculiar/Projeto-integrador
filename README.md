@@ -1,5 +1,6 @@
-
-![App Screenshot](https://www.ifto.edu.br/imagens/identidade-visual/marca-ifto-assinatura-1.png/@@images/95dbd7f8-127a-4b60-a8dd-7fe49ff97cae.png)
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/IFTO_-_Marca_2015.svg/512px-IFTO_-_Marca_2015.svg.png" alt="IFTO Logo" width="200"/>
+</p>
 
 
 # Projeto Integrador
